@@ -1,69 +1,57 @@
-<!-- README.md rendered as HTML-style markdown -->
+HAYDER Abbas — Full-Stack & Blockchain Engineer
+Full-stack engineer specialized in wallet infrastructure, crypto on/off-ramp systems, payments, and multi-chain Web3 apps.
 
-<h1 align="center">Hayder Abbas — Full-Stack & Blockchain Engineer</h1>
+I build systems that handle real transactions, real users, and real money — with focus on reliability, security, and performance.
 
-<p align="center">
-Specialized in wallet infrastructure, crypto on/off-ramp systems, payments, and multi-chain Web3 apps.
-<br/>
-I build systems that handle <b>real transactions</b>, <b>real users</b>, and <b>real money</b>.
-</p>
+🔧 What I Work On
 
-<hr/>
+Custodial & non-custodial wallet flows
 
-<h2>🔧 What I Work On</h2>
-<ul>
-  <li>Custodial & non-custodial wallet flows</li>
-  <li>Crypto on-ramp / off-ramp integrations</li>
-  <li>Blockchain data, RPC reliability, webhooks, reconciliation</li>
-  <li>Cross-chain swaps & bridges</li>
-  <li>Admin & monitoring tools for transactions and risk</li>
-  <li>High-throughput backend services for crypto-fiat platforms</li>
-</ul>
+Crypto on-ramp / off-ramp integrations
 
-<h2>🧱 Tech Stack</h2>
+Blockchain data, RPC reliability, webhooks, reconciliation
 
-<b>Blockchain / Web3</b>
-<p>Solidity • Rust • Anchor • Hardhat • Foundry • Ethers.js • Web3.js • Solana Web3.js • WalletConnect • RPC • Subgraph</p>
+Cross-chain swaps & bridges 
 
-<b>Backend</b>
-<p>Node.js • Go • Python • PostgreSQL • MongoDB • Redis • REST • Webhooks • GraphQL</p>
+Admin & monitoring tools for transactions and risk
 
-<b>Frontend</b>
-<p>React • Next.js • TypeScript • Tailwind • Redux • Wagmi • RainbowKit</p>
+High-throughput backend services for crypto-fiat platforms
 
-<b>DevOps</b>
-<p>Docker • AWS • CI/CD • Git • Unit Testing</p>
+🧱 Tech Stack
 
-<hr/>
+Blockchain / Web3
+Solidity • Rust • Anchor • Hardhat • Foundry • Ethers.js • Web3.js • Solana Web3.js • WalletConnect • RPC • Subgraph
 
-<h2>🚀 Notable Experience</h2>
+Backend
+Node.js • Go • Python • PostgreSQL • MongoDB • Redis • REST • Webhooks • GraphQL
 
-<h3>Bitramp — Crypto On/Off-Ramp</h3>
-<p>
-Built wallet infrastructure, transaction processing, payment integrations, webhook ingestion,
-reconciliation logic, and admin monitoring tools.
-</p>
+Frontend
+React • Next.js • TypeScript • Tailwind • Redux • Wagmi • RainbowKit
 
-<h3>LI.FI — Cross-Chain Infrastructure</h3>
-<p>
-Worked on swap/bridge interfaces, wallet connections, RPC reliability,
-gas estimation, and transaction lifecycle handling across chains.
-</p>
+DevOps
+Docker • AWS • CI/CD • Git • Unit Testing
+🚀 Notable Experience
+Bitramp — Crypto On/Off-Ramp
 
-<hr/>
+Built wallet infrastructure, transaction processing, KYC/payment integrations, webhook ingestion, reconciliation logic, and admin monitoring tools.
 
-<h2>🎯 Engineering Focus</h2>
-<ul>
-  <li>Correct state handling in financial flows</li>
-  <li>Failure handling (RPC, webhooks, providers)</li>
-  <li>Performance under load</li>
-  <li>Clean, maintainable architecture</li>
-</ul>
+LI.FI — Cross-Chain Infrastructure
 
-<hr/>
+Worked on swap/bridge interfaces, wallet connections, RPC reliability, gas estimation, and transaction lifecycle handling across chains.
+🎯 Focus
 
-<h2>📫 Contact</h2>
-<p>
-hayderabs@pm.me<br/>
+I care about:
+
+Correct state handling in financial flows
+
+Handling failures (RPC, webhooks, providers)
+
+Performance under load
+
+Clean, maintainable architecture
+
+📫 Contact
+
+hayderabs@pm.me
+
 Dubai, UAE
-</p>
