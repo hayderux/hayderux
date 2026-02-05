@@ -1,0 +1,57 @@
+HAYDER Abbas — Full-Stack & Blockchain Engineer
+Full-stack engineer specialized in wallet infrastructure, crypto on/off-ramp systems, payments, and multi-chain Web3 apps.
+
+I build systems that handle real transactions, real users, and real money — with focus on reliability, security, and performance.
+
+🔧 What I Work On
+
+Custodial & non-custodial wallet flows
+
+Crypto on-ramp / off-ramp integrations
+
+Blockchain data, RPC reliability, webhooks, reconciliation
+
+Cross-chain swaps & bridges (LI.FI)
+
+Admin & monitoring tools for transactions and risk
+
+High-throughput backend services for crypto-fiat platforms
+
+🧱 Tech Stack
+
+Blockchain / Web3
+Solidity • Rust • Anchor • Hardhat • Foundry • Ethers.js • Web3.js • Solana Web3.js • WalletConnect • RPC • Subgraph
+
+Backend
+Node.js • Go • Python • PostgreSQL • MongoDB • Redis • REST • Webhooks • GraphQL
+
+Frontend
+React • Next.js • TypeScript • Tailwind • Redux • Wagmi • RainbowKit
+
+DevOps
+Docker • AWS • CI/CD • Git • Unit Testing
+🚀 Notable Experience
+Bitramp — Crypto On/Off-Ramp
+
+Built wallet infrastructure, transaction processing, KYC/payment integrations, webhook ingestion, reconciliation logic, and admin monitoring tools.
+
+LI.FI — Cross-Chain Infrastructure
+
+Worked on swap/bridge interfaces, wallet connections, RPC reliability, gas estimation, and transaction lifecycle handling across chains.
+🎯 Focus
+
+I care about:
+
+Correct state handling in financial flows
+
+Handling failures (RPC, webhooks, providers)
+
+Performance under load
+
+Clean, maintainable architecture
+
+📫 Contact
+
+hayderabs@pm.me
+
+Dubai, UAE
