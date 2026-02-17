@@ -35,11 +35,6 @@ Bitramp — Crypto On/Off-Ramp
 
 Built wallet infrastructure, transaction processing, KYC/payment integrations, webhook ingestion, reconciliation logic, and admin monitoring tools.
 
-LI.FI — Cross-Chain Infrastructure
-
-Worked on swap/bridge interfaces, wallet connections, RPC reliability, gas estimation, and transaction lifecycle handling across chains.
-🎯 Focus
-
 I care about:
 
 Correct state handling in financial flows
